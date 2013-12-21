@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Xcode copy 0" parent="Xcode">
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta END" />
+    <keyboard-shortcut first-keystroke="shift END" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta HOME" />
+    <keyboard-shortcut first-keystroke="shift HOME" />
+  </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift F1" />
+    <keyboard-shortcut first-keystroke="control meta alt SLASH" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta F12" />
+    <keyboard-shortcut first-keystroke="control S" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt N" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift ESCAPE" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="meta alt CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="meta alt OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="shift meta UP" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt F8" />
+  </action>
+</keymap>
+

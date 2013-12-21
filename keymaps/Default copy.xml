@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="control S" />
+  </action>
+</keymap>
+

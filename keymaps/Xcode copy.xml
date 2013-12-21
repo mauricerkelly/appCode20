@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Xcode copy" parent="Xcode">
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id="EditorTab" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="ENTER" />
+  </action>
+</keymap>
+

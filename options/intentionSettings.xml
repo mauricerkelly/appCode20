@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Objective-C/Split into declaration and assignment" />
+    <ignoreAction name="C and C++/Replace 'if else' with '?:'" />
+  </component>
+</application>
+
