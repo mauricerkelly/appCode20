@@ -1,0 +1,11 @@
+Subversion
+XPathView
+CVS
+HtmlTools
+Inspection-JS
+TFS
+JavaScript
+hg4idea
+JSIntentionPowerPack
+com.intellij.css
+PerforceDirectPlugin

@@ -26,8 +26,8 @@
       <component name="PropertiesComponent">
         <property name="options.splitter.main.proportions" value="0.24681123" />
         <property name="options.lastSelected" value="preferences.sourceCode.C/C++/Objective-C" />
-        <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
       </component>
       <component name="RunManager">
         <list size="0" />
