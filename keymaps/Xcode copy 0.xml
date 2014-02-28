@@ -46,6 +46,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta R" />
   </action>
+  <action id="RunConfiguration">
+    <keyboard-shortcut first-keystroke="control meta CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="control meta OPEN_BRACKET" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta ENTER" />
   </action>

@@ -14,7 +14,6 @@
   </option>
   <Objective-C>
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
-    <option name="METHOD_BRACE_PLACEMENT" value="2" />
     <option name="SPACE_BEFORE_PROPERTY_ATTRIBUTES_PARENTHESES" value="true" />
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
     <option name="INTRODUCE_PROP_TO_PRIVATE_CATEGORY" value="true" />
@@ -68,7 +67,7 @@
   <codeStyleSettings language="ObjectiveC">
     <option name="CLASS_BRACE_STYLE" value="2" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
