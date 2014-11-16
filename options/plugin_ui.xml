@@ -8,7 +8,9 @@
     <option name="UPDATE_IN_BACKGROUND" value="false" />
     <option name="myOutdatedPlugins">
       <value>
-        <list size="0" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="com.floobits.unique.plugin.id" />
+        </list>
       </value>
     </option>
     <available-proportions proportions="0.6629834" version="1" />
